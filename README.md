@@ -67,6 +67,23 @@ The fair use index tracts a variety of judicial decissions to help boyh the layw
 The purpose of WIPO is to lead the development of a balanced and effective international system that enables innoation and creativity for the benefit of all parties involved.
 The importance of WIPO is to help the governments , businesses and society to realise the benefits of intellectual property and its need to be protected.
 #### how to obtain copyright.
+In the majority of countries, and according to the Berne Convention, copyright protection is obtained automatically without the need for registration or other formalities.
+Most countries nonetheless have a system in place to allow for the voluntary registration of works. Such voluntary registration systems can help solve disputes over ownership or creation, as well as facilitate financial transactions, sales, and the assignment and/or transfer of rights.
+Please note that WIPO does not offer a copyright registration system or a searchable copyright database. Find out more about copyright registration and documentation systems.
+Copyrights are important to protect creative and orginal ideas of innovation from being duplicated
+When are copyright is filed to the US copyrights office , the service /product cannot be duplicated by anyone in the USA without he consent of the owner.
+##### Copyright of a Svg Image
+This protects the imahe from being used by others without paying you or asking your permission before they use it.
+The trademark of the svg image allows the owner  to communicate the source or orgin of the product /service to the customers which helps on the attonery to identify protect and enforce ip rights in the USA.
+## Information Collection
+### COPPA FERPA HIPPA
+#### COPPA Chirldren Online Privacy Protection Act
+This act was enforced by thr federal trade commision  where by organisation must make a goal of faith effort to determine the age of those accessing their websites. If the users are under they must obtain parental consent before collecting any information.
+#### FERPA Family Educational Rights and Privacy Act
+This protects the privacy of students records in the USA. Children under the age of 18yrs still in high school their information fron educational institutions can only be accessed with parental acceptance.
+#### HIPPA Health Insurance Portability and Accountability Act
+This is the law that specifically singles out records related to health care as a special class of personally identifiable information. This law gives rights to patients to access their medical records from health institutions.
+
 
 
 
